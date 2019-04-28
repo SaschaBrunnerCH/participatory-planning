@@ -203,9 +203,9 @@ export default class App extends declared(WidgetBase) {
           <div class="column-17">
             <div class="card card-wide">
               <figure class="card-wide-image-wrap">
-                <img class="card-wide-image" src="./images/dumbo.png" alt="Dumbo" />
+                <img class="card-wide-image" src="./images/zugbrueggli.png" alt="Brüggli" />
                 <div class="card-image-caption">
-                  Dumbo, Brooklyn NY
+                  Brüggli, Town Zug, Switzerland
                 </div>
               </figure>
               <div class="card-content">
