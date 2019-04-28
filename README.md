@@ -31,6 +31,7 @@ This application is adoptable in the simple following steps and can be used for 
 
 [![screenshot](./screenshot_townzug.png)](https://saschabrunnerch.github.io/participatory-planning)
 
+[![video](./video_townzug.gif)](https://saschabrunnerch.github.io/participatory-planning)
 <br><br><br><br><br>
 
 
