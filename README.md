@@ -1,7 +1,9 @@
 # Adopted "Participatory Planning" repository
 
-This repository is a fork from [participatory-planning on esri](https://github.com/Esri/participatory-planning). This cool app is created by Developer Evangelist Arno Fiva at Esri R&D Center Zurich.
+This repository is a fork from [participatory-planning on esri](https://github.com/Esri/participatory-planning). This awesome app is created by Developer Evangelist Arno Fiva at Esri R&D Center Zurich.
 He explains all details in this [blog](https://www.esri.com/arcgis-blog/products/js-api-arcgis/3d-gis/create-your-next-neighborhood-in-3d/).
+
+A live version is available [here](https://saschabrunnerch.github.io/participatory-planning/).
 
 
 ## Participatory Planning in a real scenario in the town Zug, Switzerland
@@ -16,7 +18,7 @@ This application allows the citizen to participate and show there solution for t
 
 ## 5 steps to adopt the application to another planning area in another town
 
-This application is adoptable in just the following steps and can be used for every "Participatory Planning" in any town.
+This application is adoptable in the simple following steps and can be used for every "Participatory Planning" in any town.
 
 1.  Create a new [Webscene](https://doc.arcgis.com/en/arcgis-online/reference/what-is-web-scene.htm) with data matching the area
     1.  Create a [Webscene in ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/get-started/get-started-with-scenes.htm)
